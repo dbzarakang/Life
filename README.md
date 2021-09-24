@@ -1,3 +1,2 @@
 # Life
-
-## git
+Bulding stack
